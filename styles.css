@@ -1,6 +1,6 @@
 *{
     font-family: Mont;
-   
+ 
 }
 body{
   background-color: #ff8a65;
@@ -25,19 +25,27 @@ header {
 
     text-align: center;
     background-color: #FFFFFF;
-    padding:30px;
+    padding:20px;
     
 }
-.contacts
+.block-list
 {
  background-color:#ffffcc;
+ 
 }
-.contacts h2
+.block-list h2
 {
     background-color:#333333;
     text-align: center;
     width: 140px;
     margin: 40px auto 20px;
     color:#FFFFFF
+    
+}
+.block-list li
+{
+   
+ margin-bottom: 5px;
+ 
     
 }
