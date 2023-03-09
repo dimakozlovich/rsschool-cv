@@ -39,10 +39,60 @@
     <li><h3>Belarussian - Native</h3></li>
     <li><h3>Russian - Native</h3></li>
     <li><h3>English - Intermediate<h3></li>
-
    </ul>
   </div>
-  <div>
+  </div>
+
+
+  <div class="right-column">
+    <div class="information-about-me">
+     <h2>ABOUT MYSELF</h2>
+     <p>Programming is my passion. That's why i want be a programmer.</p>
+  <p>I started learning programming at the age of 16 and continue to this day </p>
+  <p>I have experience in writing telegram bots, which were used by more than 50 users</p>
+  <p>Now I'm aiming to learn javascript in order to become a full-time full-stack developer</p>
+    </div>
+     <div class="information-about-me">
+     <h2>EDUCATION</h2>
+     <ul>
+     <li>Student of BSTU(automated information processing systems stage 1)</li>
+     <li>RS School stage 1</li>
+     </ul>
+    </div>
+    <div class="information-about-me" id="colorback-sertificate">
+     <h2>COURSES</h2>
+     <img src="sertificate.png" alt="sertificate" width="450">
+    </div>
+    <div class="information-about-me">
+    <h2>Eexample of using prototypes in JS</h2>
+    <pre>
+    <code>
+    let persone = {
+    name : "dima",
+    age: 18,
+    greet: function(){
+        console.log('hello world')
+    }
+    }
+const car = new Object({
+    name:'BMW',
+    greet: function(number)
+    {
+        console.log(number)
+    }
+})
+Object.prototype.sayHello = function(){
+    console.log('hello')
+}
+const animal = Object.create(persone)
+animal.name = 'dog'
+
+const string = 'i am string'
+const str = new String('i am string also')
+    </code>
+    </pre>
+    </div>
+  </div>
   
   </div>
 </body>
