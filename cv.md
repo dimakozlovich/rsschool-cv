@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <link rel="stylesheet" href="styles.css">
@@ -7,7 +7,7 @@
   <div class = "centrain">
    <div class="left-column">
    <header>
-    <img src="photocv.jpg" alt="photo" width="220" style="float:left"; margin-left: 5px;>
+    
    <h1>DMITRTY KOZLOVICH</h1>
    <h3>JUNIOR FULL STACK .NET DEVELOPER</h3>
     <hr>
