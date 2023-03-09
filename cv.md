@@ -1,7 +1,7 @@
 
 <html>
 <head>
-  <link rel="stylesheet" href="styles.css">
+
 </head>
 <body>
   <div class = "centrain">
@@ -30,7 +30,7 @@
    <li><h3>Entity Framework</h3></li>
    <li><h3>HTML</h3></li>
    <li><h3>CSS</h3></li>
-   <li><h3>REST API<h3></li>
+   <li><h3>REST API</h3></li>
    </ul>
   </div>
   <div class="block-list">
@@ -38,7 +38,7 @@
    <ul>
     <li><h3>Belarussian - Native</h3></li>
     <li><h3>Russian - Native</h3></li>
-    <li><h3>English - Intermediate<h3></li>
+    <li><h3>English - Intermediate</h3></li>
    </ul>
   </div>
   </div>
@@ -67,9 +67,9 @@
     <h2>Eexample of using prototypes in JS</h2>
     <pre>
     <code>
-    let persone = {
-    name : "dima",
-    age: 18,
+        let persone = {
+        name : "dima",
+        age: 18,
     greet: function(){
         console.log('hello world')
     }
@@ -93,7 +93,6 @@ const str = new String('i am string also')
     </pre>
     </div>
   </div>
-  
   </div>
 </body>
 </html>
